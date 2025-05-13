@@ -2,10 +2,10 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://ritter19.github.io/goit-js-hw-08/",
+  "homepage": "hhttps://github.com/Ritter19/goit-js-hw-08",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "https://ritter19.github.io/goit-js-hw-08/"
+    "build": "parcel build src/*.html --public-url /goit-js-hw-08/"
   },
   "repository": {
     "type": "git",
